@@ -1,6 +1,7 @@
 <!-- HERO IMAGE -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bd4527be-8443-4a9d-9b7a-805bde747979" width="100%" />
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 </p>
 
 <div align="center"> 
@@ -8,6 +9,7 @@
   <img src="https://img.shields.io/badge/Live-Indonesia-red?style=flat&logo=googlemaps&logoColor=red">
   <img src="https://img.shields.io/badge/Github-Link-0e75b6?style=flat&logo=github&logoColor=whie">
 </div>
+
 
 <h1 align="center"></h1>
 <h3 align="center">A passionate Programmer from Sri lanka</h3>
@@ -46,6 +48,12 @@ style="margin-top:100px;">
 - 📫 How to reach me **supunnanayakkara01@gmail.com**
 
 - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+<br><br><br>
+
+<p align="center">
+  <img width="48%" style="margin-right:15px;" src="https://nirzak-streak-stats.vercel.app/?user=zxlauncher&theme=neon&hide_border=false" />
+  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxlauncher&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -55,4 +63,10 @@ style="margin-top:100px;">
 <a href="https://fb.com/supunnanayakkara01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@supunnanayakkara01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
 <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+</p>
+<h1 align="center"></h1>
+
+
+<p align="center">
+<img src="https://github.com/Zxlauncher/ThankYouVisiting/blob/a6ee01a4f8a279301537791f27ce007234a4cbec/cyberpunk-thankyou.svg">
 </p>
