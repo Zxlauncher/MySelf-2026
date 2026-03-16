@@ -68,5 +68,5 @@ style="margin-top:100px;">
 
 
 <p align="center">
-<img src="https://github.com/Zxlauncher/ThankYouVisiting/blob/a6ee01a4f8a279301537791f27ce007234a4cbec/cyberpunk-thankyou.svg">
+<img src="https://github.com/Zxlauncher/MySelf-2026/blob/main/cyberpunk-thankyou.svg">
 </p>
